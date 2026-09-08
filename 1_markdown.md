@@ -9,6 +9,37 @@ Here is the example to replicate:
 
 % WRITE YOUR MARKDOWN HERE
 
+## **My first Markdown Document**
+
+This is my introduction to *markdown formatting*. I'm learning how to use various formatting options so that I can style my reports. 
+
+### **Skills i'm practicing**
+1. Making text bold and italic 
+2. creating ordered and unordered lists
+3. Adding code snippets 
+4. Creating headers and subheaders 
+
+### **Important programming concepts**
+- Variables store data values
+- Functions are reusable block of code
+- Print() is a built in python function
+- Comments help explain code to others
+
+here is a simple Python example:
+
+``` python  
+# this is a comment
+name = "MUDE student"
+age = 20 
+print (f"Hello, my name is {name} and I am {age} year old.")`
+```
+    
+
+### **Usefull resources**
+- [Markdown guide](https://www.markdownguide.org/basic-syntax/)
+
+remember practice makes perfect!
+
 
 ## Task 2 Open rendered markdown preview
 
