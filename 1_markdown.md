@@ -49,9 +49,16 @@ Test out the rendered markdown preview in VS code (`CTRL`+`SHIFT`+`V`). Is it id
 
 Now try to replicate the following markdown table (you can copy-paste the star emoji ⭐):
 
+
+
+
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_table.png)
 
 % WRITE YOUR MARKDOWN HERE
+
+|Language|Difficulty|Use Case|Popularity|
+|:--------|:-----:|:------:|------:|
+|Python  |Beginner  |Data science, Web Dev|⭐⭐⭐⭐⭐|
 
 
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
